@@ -1,24 +1,23 @@
-# Color Recognition using OpenCV
+Color Recognition using OpenCV
 
-## Description
+Description
+
 This project detects the red color using a webcam with OpenCV.
 
-## Requirements
-- Python 3.9
-- OpenCV
-- NumPy
+Requirements
 
-## Installation
-Bash
-
-
+Python 3.9
+OpenCV
+NumPy
+
+Installation
+
 pip install -r requirements.txt
 
-## Run
-Bash
-
-
+Run
+
 python main.py
 
-## Result
-The program opens the webcam and detects red objects by drawing a green rectangle around them and displaying the label "Red".
+Result
+
+The program opens the webcam and detects red objects by drawing a green rectangle around them and displaying the label “Red”.
